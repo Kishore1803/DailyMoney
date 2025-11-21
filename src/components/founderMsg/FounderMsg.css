@@ -204,6 +204,9 @@
         border-width: 3px;
         border-radius: 12px;
     }
+    .header-title{
+        text-align: center;
+    }
 }
 
 
