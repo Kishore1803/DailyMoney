@@ -58,6 +58,7 @@
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: 0.5rem;
+    text-align: center;
 }
 
 .header-subtitle {
@@ -128,18 +129,7 @@
  * Message Content & Signature
  * ---------------------------------- */
 
-.message-content {
 
-    /* @apply p-8 md:p-12 text-left; */
-    padding: 2rem;
-    text-align: left;
-}
-
-@media (min-width: 768px) {
-    .message-content {
-        padding: 3rem;
-    }
-}
 
 /* Blockquote/Italic Style */
 .message-quote {
@@ -184,6 +174,10 @@
     
 }
 
+.message-content{
+    padding: 2rem;
+}
+
 
 
 /* Responsive Adjustments */
@@ -205,7 +199,7 @@
         border-radius: 12px;
     }
     .header-title{
-        text-align: center;
+        text-align:center;
     }
 }
 
