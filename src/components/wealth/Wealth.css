@@ -152,8 +152,8 @@
 
 @media (max-width: 520px) {
   .wealth-heading span {
-    font-size: 22px;
-    line-height: 2.8rem;
+    font-size: 24px;
+    line-height: 2.4rem;
   }
 
   .wealthy-text-col {
@@ -236,10 +236,6 @@
   .wealthy-image-col img {
     max-width: 420px;
   }
-
-  .wealth-heading span {
-    font-size: 26px;
-  }
 }
 
 /* ----------- Medium devices (tablets, portrait) ----------- */
@@ -256,10 +252,11 @@
   }
 
   .wealth-heading span {
-    font-size: 22px;
-    line-height: 2.8rem;
-    margin: 0 auto;
-    display: inline-block;
+   padding: 0 15px;
+   font-size: 24px;
+   line-height: 1.6;
+   margin-left: -30px;
+   margin-top: 5px;
   }
 
   .wealthy-row {
@@ -290,10 +287,11 @@
   }
 
   .wealth-heading span {
-    font-size: 20px;
-    padding: 0 10px;
-    line-height: 2.4rem;
-    margin: 0 0 0 20px;
+   padding: 0 15px;
+   font-size: 24px;
+   line-height: 1.6;
+   margin-left: -10px;
+   margin-top: 5px;
   }
 
   .wealthy-text-col {
@@ -331,9 +329,11 @@
   }
 
   .wealth-heading span {
-    font-size: 24px;
-    padding: 0 8px;
-    margin: 0 0 0 20px;
+   padding: 0 15px;
+   font-size: 24px;
+   line-height: 1.6;
+   margin-left: -20px;
+   margin-top: 5px;
   }
 
   .view-more-btn {

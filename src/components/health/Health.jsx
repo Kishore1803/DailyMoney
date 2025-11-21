@@ -37,7 +37,7 @@ const Health = () => {
       {/* Health Section Header */}
       <section className="health-section">
         <h1 className="text-2xl md:text-3xl font-semibold mb-6 text-center">
-          My health is my greatest wealth. 😊
+          My health is my greatest wealth. 
         </h1>
       </section>
 
