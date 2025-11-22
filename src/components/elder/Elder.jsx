@@ -57,7 +57,7 @@ export default function Elder() {
           <div className="dm-eldr-content">
             <p className="dm-eldr-animate dm-eldr-tagline">
               <strong>
-                <span className="dm-eldr-highlight">● DM</span> represents a <span className="dm-eldr-highlight">rebirth -</span> a movement, where elders & independent and <span className="dm-eldr-highlight">earn daily</span>, 
+                <span className="dm-eldr-tick">●  </span> DM represents a <span className="dm-eldr-highlight">rebirth -</span> a movement, where elders & independent and <span className="dm-eldr-highlight">earn daily</span>, 
                 <span className="dm-eldr-highlight"> share wisdom</span> and feel <span className="dm-eldr-highlight">valuable</span> again.<br /> 
                 <span className="dm-eldr-tick">●  </span>Live with <span className="dm-eldr-highlight">financial confidence</span>. <br />
                 <span className="dm-eldr-tick">●  </span>Feel <span className="dm-eldr-highlight">valued</span> and <span className="dm-eldr-highlight">included</span>. <br />
