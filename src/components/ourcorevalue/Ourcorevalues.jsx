@@ -67,12 +67,12 @@ const Visionmission = () => {
       <div className="vision-col vision-text-col">
         <h2>
           <div className='vision-paragraph-container'>
-          <p style={{ color: "black", marginRight: "15px" }}>● </p><p>  Transforming the way the world lives healthier in body, 
+          <p style={{ color: "red", marginRight: "15px" }}>● </p><p>  Transforming the way the world lives healthier in body, 
           happier in heart and richer in spirit.</p>
           </div>
 
           <div className='vision-paragraph-container'> 
-          <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p>To inspire a world where well being, joy
+          <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p>To inspire a world where well being, joy
           and prosperity thrive together.</p>
           </div>
         </h2>
@@ -87,12 +87,12 @@ const Visionmission = () => {
             <div className="vision-col vision-text-col">
               <h2>
                 <div className='vision-paragraph-container'>
-                  <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p>To nurture global wellness and wealth
+                  <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p>To nurture global wellness and wealth
                     through mindful living and empowered growth.</p>
                 </div>
 
                 <div className='vision-paragraph-container'>
-                  <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p>To harmonize body, mind and prosperity through conscious,
+                  <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p>To harmonize body, mind and prosperity through conscious,
                     nature powered living.</p>
                 </div>
 
@@ -112,12 +112,12 @@ const Visionmission = () => {
       <div className="vision-col vision-text-col">
         <h2>
           <div className='vision-paragraph-container'> 
-          <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p>A world of harmony where health, happiness 
+          <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p>A world of harmony where health, happiness 
           and wealth coexist in balance.
           </p>
           </div>
           <div className='vision-paragraph-container'> 
-          <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p> To redefine success by aligning health, happiness
+          <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p> To redefine success by aligning health, happiness
           and financial growth.</p>
           </div>
               </h2>
@@ -131,12 +131,12 @@ const Visionmission = () => {
       <div className="vision-col vision-text-col">
         <h2>
           <div className='vision-paragraph-container'> 
-          <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p>To create a global movement that connects well being 
+          <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p>To create a global movement that connects well being 
           with wealth building for a better tomorrow.
           </p>
           </div>  
         <div className='vision-paragraph-container'> 
-          <p style={{ color: "black", marginRight: "15px" }}>● </p>  <p> Empower every individual to live healthier, 
+          <p style={{ color: "red", marginRight: "15px" }}>● </p>  <p> Empower every individual to live healthier, 
           happier and more abundant lives through balance and purpose.</p>
           </div>
         </h2>
