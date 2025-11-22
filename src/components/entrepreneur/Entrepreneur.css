@@ -115,6 +115,10 @@
   text-align: left;
 }
 
+.dot{
+  color: #FFD70F;
+  margin-right: 10px;
+}
 /* ======================== */
 /* VIEW MORE BUTTON         */
 /* ======================== */
