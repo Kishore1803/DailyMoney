@@ -284,7 +284,7 @@ export default function Home() {
         {/* The other team members remain in the grid below */}
         <div className="team-grid">
           <div className="team-member-card">
-            <img src="person2.PNG" alt="S.Vasu" />
+            <img src="person2.PNG" alt="R.K.selvamani" />
             <h4 className="team-member-name">R.K.Selvamani</h4>
           </div>
 
